@@ -1,0 +1,24 @@
+*
+{
+	font-family: 'Inria Sans', sans-serif;
+}
+button
+{
+	width: 200px;
+}
+#postionContainer
+{
+	margin-left: 45%;
+}
+h1
+{
+	text-align: center;
+}
+input
+{
+	width: 200px;
+}
+#resultGame
+{
+	margin-left: 8%;
+}
